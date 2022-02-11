@@ -1,0 +1,5 @@
+provider.tf
+*.tfstate
+*.tfstate.backup
+.terrform
+
